@@ -21,7 +21,6 @@ using UnityEngine.SceneManagement;
 using UnityEngine.Windows;
 using static MultiThreadedLiquid.MultiThreadedLiquid;
 using static MultiThreadedLiquid.SharedState;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace MultiThreadedLiquid
 {
